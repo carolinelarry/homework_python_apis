@@ -1,2 +1,2 @@
-# homework_python_apis
-Homework 6 updated
+# homework_6
+Homework 6, PyWeather
