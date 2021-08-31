@@ -30,7 +30,7 @@ The final notebook included:
 * A print log of each city as it's being processed with the city number and city name.
 * A saved CSV of all retrieved data and a PNG image for each scatter plot.
 
-### Part II - Vacation Spot
+## Part II - Vacation Spot
 
 Next we used our weather data to plan future vacations. Using jupyter-gmaps and the Google Places API, I did the following:
 
